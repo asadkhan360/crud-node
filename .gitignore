@@ -4,7 +4,7 @@ node_modules/
 # Environment variables
 .env
 
-# Logs (optional)
+# Logs
 *.log
 npm-debug.log*
 
@@ -13,3 +13,7 @@ npm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+# Build / output folders (agar kabhi ho)
+dist/
+build/
